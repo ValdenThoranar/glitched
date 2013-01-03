@@ -6,8 +6,6 @@ Glitched : The Game, par Glitch Studios. 2012-2013
 Ne pas utiliser à des fins commerciales.
 
 -----------
-  Credits
------------
 
 Programmation:
 --------------
