@@ -1,4 +1,4 @@
-package org.glitched.main;
+package org.glitched.application;
 
 public class GlitchedBase
 {
