@@ -1,62 +1,43 @@
 Glitched
 ========
 
-Glitched : The Game, par Glitch Studios.
+Glitched : The Game, par Glitch Studios. 2012-2013
 
-Ne pas utiliser à des fins commerciales.©2012-2013 Glitch Studios Touts Droits Réservés.
+Ne pas utiliser à des fins commerciales.
 
-1.Installation
-
-Double cliquez sur le fichier et suivez les étapes.
-
-2.Credits:
-
-Lead director :
-
-Pas vraiment quelqu'un en particulier.
-
+-----------
+  Credits
+-----------
 
 Programmation:
-
--Faërie
-
--Kronos
-
--Ikurhai
-
--Vdragon
-
--Siapran
-
--Terah
-
--Sparamoule (Moteur Graphique)
+--------------
+- Faërie
+- Kronos
+- Ikurhai
+- Vdragon
+- Siapran
+- Terah
+- Sparamoule
 
 
 Graphismes:
-
--Siapran
-
--Luluesmail
-
--Mr.Cactus
-
--J4ft
-
--Dreamer
+-----------
+- Siapran
+- Luluesmail
+- Mr.Cactus
+- J4ft
+- Dreamer
 
 
 Scénario:
+---------
+- Dr.Craft
+- TheToto1000
 
--Dr.Craft
 
--TheToto1000
+Level/game design:
+------------------
 
-
-Level design et game design:
-
--Dr.Craft
-
--Luluesmail
-
--Dreamer
+- Dr.Craft
+- Luluesmail
+- Dreamer
