@@ -27,6 +27,10 @@ Graphismes:
 - Dreamer
 
 
+Musique:
+--------
+- Valden Thoranar
+
 Scénario:
 ---------
 - Dr.Craft
